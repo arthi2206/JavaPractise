@@ -7,7 +7,7 @@ public class VerifyValidEmail {
 
 	public static void main(String[] args) {
 //		1. Write a java program to verify whether the given String is valid email address.
-//		Input: "balaji.chandrasekaran@testleaf.com"
+//		Input: "arthi.tv@hotmail.com"
 //		output: true
 //		Input: "balaji.c@tunatap.co.uk"
 //		output: true
